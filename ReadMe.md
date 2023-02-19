@@ -22,14 +22,14 @@ Alexander S. Ecker and Matthias Bethge.
 </div>
 
 <div style='float'>
-![content2](https://user-images.githubusercontent.com/88512953/219962462-f3c8284b-8aaa-45b6-9cbc-ae31aec461e4.jpg)
-![style2](https://user-images.githubusercontent.com/88512953/219962484-5ceb247e-e6b3-4d48-85c7-247a1fbf667e.jpg)
-![image](https://user-images.githubusercontent.com/88512953/219963443-9482c165-fb4e-4796-9e7a-d0618ebe276e.png)
+<img height=300px width=330 src="https://user-images.githubusercontent.com/88512953/219962462-f3c8284b-8aaa-45b6-9cbc-ae31aec461e4.jpg">
+<img height=300px width=330 src="https://user-images.githubusercontent.com/88512953/219962484-5ceb247e-e6b3-4d48-85c7-247a1fbf667e.jpg">
+<img height=300px width=330 src="https://user-images.githubusercontent.com/88512953/219963443-9482c165-fb4e-4796-9e7a-d0618ebe276e.png">
 </div>
 
 <div style='float'>
-![content3](https://user-images.githubusercontent.com/88512953/219963592-956fe1bd-6870-4a8a-8980-9f1d429a46b3.jpg)
-![style3](https://user-images.githubusercontent.com/88512953/219963620-91469ea5-9d3f-490f-999d-74a4bb2dea92.jpg)
-![image](https://user-images.githubusercontent.com/88512953/219963566-02ae20d2-e79b-405f-a7af-68a94ca75775.png)
+<img height=300px width=330 src="https://user-images.githubusercontent.com/88512953/219963592-956fe1bd-6870-4a8a-8980-9f1d429a46b3.jpg">
+<img height=300px width=330 src="https://user-images.githubusercontent.com/88512953/219963620-91469ea5-9d3f-490f-999d-74a4bb2dea92.jpg">
+<img height=300px width=330 src="https://user-images.githubusercontent.com/88512953/219963566-02ae20d2-e79b-405f-a7af-68a94ca75775.png">
 </div>
 
