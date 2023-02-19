@@ -16,9 +16,9 @@ Alexander S. Ecker and Matthias Bethge.
 * The model only accepts .jpg images.
 
 <div style='float'>
-<img height=300px width=350 src="https://user-images.githubusercontent.com/88512953/219962449-8ff43b43-5338-4e1d-8bee-99d4b506a256.jpg">
-<img height=300px width=350 src="https://user-images.githubusercontent.com/88512953/219962473-07ece511-c927-4dff-ab0b-87ea622881b9.jpg">
-<img height=300px width=350 src="https://user-images.githubusercontent.com/88512953/219963381-837e1ef1-7566-4fdb-aa74-8c0cc9c41b05.png">
+<img height=300px width=330 src="https://user-images.githubusercontent.com/88512953/219962449-8ff43b43-5338-4e1d-8bee-99d4b506a256.jpg">
+<img height=300px width=330 src="https://user-images.githubusercontent.com/88512953/219962473-07ece511-c927-4dff-ab0b-87ea622881b9.jpg">
+<img height=300px width=330 src="https://user-images.githubusercontent.com/88512953/219963381-837e1ef1-7566-4fdb-aa74-8c0cc9c41b05.png">
 </div>
 
 <div style='float'>
